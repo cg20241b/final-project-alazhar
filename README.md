@@ -2,7 +2,7 @@
 
 # Final Project Proposal
 
-## Team Members
+**Team Members**
 
 | **Name**          | **NRP**            |
 |-------------------|--------------------|
@@ -11,9 +11,7 @@
 | tes | 5025221 |
 | tes | 5025221 |
 
----
-
-## Project Name : Driver's License
+# Project Name : Driver's License
 
 ## Concept
 
