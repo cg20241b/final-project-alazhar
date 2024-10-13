@@ -16,7 +16,9 @@
 ## Concept
 
 Getting a driver's license for the first time is a milestone moment, filled with excitement and a newfound sense of freedom. The open road, once out of reach, suddenly becomes a thrilling possibility. Inspired by this experience, we've decided to create a racing game centered around new drivers. In this game, players will step into the shoes of first-time license holders as they race through various challenges, navigating the thrill and nerves of driving for the first time. Our aim is to apply key concepts from our Computer Graphics course, such as realistic lighting and texture mapping, to make the experience as immersive and exciting as possible.
+
 Driver’s License: Road to Freedom takes the universal excitement of getting a driver’s license and transforms it into a high-stakes, narrative-driven racing game. Set in the sprawling and vibrant Windlane City, players assume the role of young, first-time drivers who have just earned their licenses but must now face the ultimate test: the License Trials, a city-wide series of driving challenges designed to push rookies to their limits. The trials aren’t just about speed, but also about skill, precision, and adaptability as players navigate a variety of real-world-inspired obstacles—from suburban streets filled with pedestrians and traffic to mountainous roads with dangerous curves and weather conditions.
+
 As players progress, they’ll not only race but also experience a personal journey, meeting a cast of colorful characters—from quirky instructors to fierce rivals—who shape their development as drivers. Each player’s story is unique, whether they’re racing to prove themselves, gain independence, or achieve a personal goal. The game combines intense racing action with a rich narrative, using advanced Computer Graphics techniques like realistic lighting, water reflections, and texture mapping to create an immersive, visually striking world. Whether it’s the glow of streetlights reflecting off wet asphalt or the dynamic shifts in lighting as day turns to night, every detail enhances the player’s experience as they take on the thrills and challenges of the open road.
 
 ---
@@ -34,9 +36,6 @@ We want to build features into our game to give a fun and realistic experience f
 
 ## Technologies/Tools used
 
-- Unity 3D
-Unity is a popular choice for many project and widely used for its cross platform support, user friendly interface, and high performance for 3d rendering also with a rich asset store.
-- Visual Studio
-Visual studio is a powerful IDE for complex projects also for writing C# code in Unity.
-- Github
-Github is ideal for maging project such as, tracks code changes, supports for teamwork, and offers a central place for all files. 
+- Unity 3D : Unity is a popular choice for many project and widely used for its cross platform support, user friendly interface, and high performance for 3d rendering also with a rich asset store.
+- Visual Studio : Visual studio is a powerful IDE for complex projects also for writing C# code in Unity.
+- Github : Github is ideal for maging project such as, tracks code changes, supports for teamwork, and offers a central place for all files. 
