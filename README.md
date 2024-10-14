@@ -17,7 +17,8 @@
 
 Obtaining a driver's license for the first time is an exciting milestone that comes with a sense of freedom. The busy roads, formerly unattainable, suddenly transforms to an exciting opportunity. Motivated by this, we have made the decision to develop a racing game. In this game, players assume the role of newly licensed drivers as they race through a variety of obstacles and experience both the excitement and anxiety of driving for the first time.
 
- Our goal is to apply important ideas from our course on computer graphics, like texture mapping and realistic lighting, to create an immersive and thrilling experience.
+Our goal is to apply important ideas from our course on computer graphics, like texture mapping and realistic lighting, to create an immersive and thrilling experience.
+
 ---
 
 ## Features
