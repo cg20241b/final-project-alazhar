@@ -25,10 +25,10 @@ One of our objectives is to create an effective and an enjoyable experience that
 
 We want to build features into our game to give a fun and realistic experience for the users.  Here are some of them:
 - **Race Track** : The race track will represent real-world driving environments to simulate the experience of a first-time driver. We will implement smooth and sharp curves, elevation changes, and obstacles, requiring players to demonstrate their driving skills. 
-- **Sky Box** : A skybox will be implemented to create immersive backgrounds for the game, providing a realistic atmosphere. Depending on the time, the skybox will display different times of day (morning, afternoon, dusk, night). The lighting of the environment will change according to the skybox, affecting shadows and reflections for a more authentic driving experience.
-- **Water reflection**: Water elements, such as lakes, rivers, or puddles on the road after rain, will incorporate realistic reflections. 
-- **Vehicle Physics and Controls** : Players will control vehicles with realistic handling characteristics, reflecting the experience of a driver. The game will incorporate realistic physics for acceleration, braking, and collisions, giving players a feel for the challenges of driving.
-- **Difficulty Levels** : Players will be able to choose from various difficulty levels, providing better experience for beginners. The difficulty setting will adjust the AI performance when racing against the users.
+- **Sky Box** : A skybox will be implemented to create immersive backgrounds for the game, providing a realistic atmosphere. The skybox will display different view of the environment (morning, afternoon, dusk, night) depending on the time of day. The lighting of the environment will change according to the skybox, affecting shadows and reflections for a more authentic driving experience.
+- **Water reflection**: Water elements, such as lakes, rivers, or puddles on the road, will have realistic reflections. 
+- **Vehicle Physics and Controls** : Players will control vehicles with realistic handling characteristics, reflecting the experience of a driver. The game will include realistic physics for acceleration, braking, and collisions, giving players a feel for the challenges of driving.
+- **Difficulty Levels** : Players will be able to choose from multiple difficulty levels, providing better experience for users. The difficulty setting will adjust the AI performance when racing against the users.
 
 ---
 
