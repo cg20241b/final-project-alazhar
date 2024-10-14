@@ -9,18 +9,15 @@
 | Muhammad Danis Hadriansyah  | 5025221239  |
 | Davin Fisabilillah Reynard Putra | 5025221137 |
 | Muhammad Aqil Farrukh | 5025221158 |
-| tes | 5025221 |
+| Alendra Rafif Athaillah | 5025221297 |
 
 # Project Name : Driver's License
 
 ## Concept
 
-Getting a driver's license for the first time is a milestone moment, filled with excitement and a newfound sense of freedom. The open road, once out of reach, suddenly becomes a thrilling possibility. Inspired by this experience, we've decided to create a racing game centered around new drivers. In this game, players will step into the shoes of first-time license holders as they race through various challenges, navigating the thrill and nerves of driving for the first time. Our aim is to apply key concepts from our Computer Graphics course, such as realistic lighting and texture mapping, to make the experience as immersive and exciting as possible.
+Obtaining a driver's license for the first time is an exciting milestone that comes with a sense of freedom. The busy roads, formerly unattainable, suddenly transforms to an exciting opportunity. Motivated by this, we have made the decision to develop a racing game. In this game, players assume the role of newly licensed drivers as they race through a variety of obstacles and experience both the excitement and anxiety of driving for the first time.
 
-*Driver’s License* takes the universal excitement of getting a driver’s license and transforms it into a high-stakes, narrative-driven racing game. Set in the sprawling and vibrant Windlane City, players assume the role of young, first-time drivers who have just earned their licenses but must now face the ultimate test: the License Trials, a city-wide series of driving challenges designed to push rookies to their limits. The trials aren’t just about speed, but also about skill, precision, and adaptability as players navigate a variety of real-world-inspired obstacles—from suburban streets filled with pedestrians and traffic to mountainous roads with dangerous curves and weather conditions.
-
-As players progress, they’ll not only race but also experience a personal journey, meeting a cast of colorful characters—from quirky instructors to fierce rivals—who shape their development as drivers. Each player’s story is unique, whether they’re racing to prove themselves, gain independence, or achieve a personal goal. The game combines intense racing action with a rich narrative, using advanced Computer Graphics techniques like realistic lighting, water reflections, and texture mapping to create an immersive, visually striking world. Whether it’s the glow of streetlights reflecting off wet asphalt or the dynamic shifts in lighting as day turns to night, every detail enhances the player’s experience as they take on the thrills and challenges of the open road.
-
+ Our goal is to apply important ideas from our course on computer graphics, like texture mapping and realistic lighting, to create an immersive and thrilling experience.
 ---
 
 ## Features
