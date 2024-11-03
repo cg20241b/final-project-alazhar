@@ -82,8 +82,11 @@
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\VirtualInput.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\TiltInput.cs" />
+    <Compile Include="Assets\Scripts\CameraStable.cs" />
+    <Compile Include="Assets\Mountain Terrain rocks and tree\Script\Camera\FlyCameraControl.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Aircraft\Scripts\LandingGear.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\CarUserControl.cs" />
+    <Compile Include="Assets\Mountain Terrain rocks and tree\Script\Camera\CameraControl.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\CarAudio.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\BrakeLight.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
