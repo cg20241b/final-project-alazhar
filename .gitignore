@@ -1,0 +1,18 @@
+# Folders
+Library/
+Temp/
+Obj/
+Build/
+UserSettings/
+
+# IDE specific
+.vscode/
+.idea/
+*.sln
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+Logs/
