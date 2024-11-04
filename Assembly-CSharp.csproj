@@ -80,7 +80,9 @@
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
     <Compile Include="Assets\Scripts\LapComplete.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Aircraft\Scripts\AeroplaneUserControl2Axis.cs" />
+    <Compile Include="Assets\Scripts\Countdown.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\Scripts\CarControllerActive.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\VirtualInput.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\TiltInput.cs" />
