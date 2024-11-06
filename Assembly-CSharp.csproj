@@ -93,6 +93,7 @@
     <Compile Include="Assets\Mountain Terrain rocks and tree\Script\Camera\CameraControl.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\CarAudio.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\BrakeLight.cs" />
+    <Compile Include="Assets\Scripts\DreamCar01.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\WheelEffects.cs" />
