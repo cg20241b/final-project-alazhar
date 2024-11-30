@@ -62,7 +62,9 @@
   <ItemGroup>
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\CrossPlatformInputManager.cs" />
     <Compile Include="Assets\Scripts\LapTimeManager.cs" />
+
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\CarAIControl.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Aircraft\Scripts\AeroplaneControlSurfaceAnimator.cs" />
@@ -91,6 +93,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\SkidTrail.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\ButtonHandler.cs" />
+
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
     <Compile Include="Assets\Scripts\LapComplete.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Aircraft\Scripts\AeroplaneUserControl2Axis.cs" />
@@ -106,6 +109,7 @@
     <Compile Include="Assets\Scripts\CarControllerActive.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\VirtualInput.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\TiltInput.cs" />
@@ -120,8 +124,10 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\CarAudio.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\BrakeLight.cs" />
+
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
+
     <Compile Include="Assets\Scripts\DreamCar01.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Aircraft\Scripts\AeroplanePropellerAnimator.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\PlatformSpecific\MobileInput.cs" />
@@ -129,7 +135,9 @@
     <Compile Include="Assets\Scripts\ButtonOption.cs" />
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\WheelEffects.cs" />
     <Compile Include="Assets\Scripts\HalfPointTrigger.cs" />
+
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+
     <Compile Include="Assets\StandardAssets\Vehicles\Car\Scripts\Mudguard.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\InputAxisScrollbar.cs" />
     <Compile Include="Assets\StandardAssets\CrossPlatformInput\Scripts\TouchPad.cs" />
@@ -144,8 +152,10 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
+
     <None Include="Assets\StandardAssets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader" />
@@ -170,7 +180,9 @@
     <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader" />
     <None Include="Assets\StandardAssets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
     <None Include="Assets\TextMesh Pro\Shaders\TMP_Sprite.shader" />
+
     <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
+
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

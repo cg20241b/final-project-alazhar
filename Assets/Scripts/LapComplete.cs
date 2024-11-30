@@ -12,7 +12,7 @@ public class LapComplete : MonoBehaviour
     public GameObject MilliDisplay;
 
     public GameObject LapTimeBox;
-
+    
     public GameObject LapCounter;
     public int LapsDone;
 
