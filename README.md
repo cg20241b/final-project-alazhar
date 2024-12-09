@@ -28,7 +28,6 @@ We want to build features into our game to give a fun and realistic experience f
 - **Sky Box** : A skybox will be implemented to create immersive backgrounds for the game, providing a realistic atmosphere. The skybox will display different view of the environment (morning, afternoon, dusk, night) depending on the time of day. The lighting of the environment will change according to the skybox, affecting shadows and reflections for a more authentic driving experience.
 - **Water reflection**: Water elements, such as lakes, rivers, or puddles on the road, will have realistic reflections. 
 - **Vehicle Physics and Controls** : Players will control vehicles with realistic handling characteristics, reflecting the experience of a driver. The game will include realistic physics for acceleration, braking, and collisions, giving players a feel for the challenges of driving.
-- **Difficulty Levels** : Players will be able to choose from multiple difficulty levels, providing better experience for users. The difficulty setting will adjust the AI performance when racing against the users.
 
 ---
 
